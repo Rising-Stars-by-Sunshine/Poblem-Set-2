@@ -7,9 +7,11 @@
 GDP is a popular indicator of economic performance, and national GDP of a country is always changing. This project hopes to use machine learning to predict future GDP of South Korea based on previous years GDP. Data on the GDP of Korea from 1960 to 2021 was sourced from [the World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD). This project can be applied to predict GDP of other countires besides Korea, as well as give insight to where the country is heading. 
 
 ## Table of Contents
-|    data   | [link](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data) |
-|    code   | [link](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/code)|
-| spotlight | [link](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/spotlight) |
+| Table of Contents|
+| -----------------|
+| [data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data) |
+| [code](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/code)|
+| [spotlight](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/spotlight) |
 
 
 
