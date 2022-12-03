@@ -21,7 +21,7 @@
 | Code |
 |------|
 | [Process data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/blob/main/code/Natalie_Process.ipynb) |
-| Analyze data |
+| [Analyze data](linear_model.Ridge(alpha=.5))|
 
 
 ## Spotlight
@@ -42,7 +42,7 @@ Prediction:
 
 **Figure 2: Confusion matrix from random forest classifier**
 
-Source: from the [analyze data] for 'Machine Learning for Prediction' part of the assignment; data sourced from [the World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+Source: from the [analyze data](linear_model.Ridge(alpha=.5)) for 'Machine Learning for Prediction' part of the assignment; data sourced from [the World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
 Figure 2 is a confusion matrix for the random forest classifier algorithm. This is useful to see how suitable this algorithm is for the problem. We can see that the proportion of true positives to all positives is 6:1, so there is relatively high precision. The proportion of true positives to those belonging to the positive class is also 6:1, so recall is also relative high. This means that the random forest classifier could be a good algorithm to predict the future GDP of Korea.
 
