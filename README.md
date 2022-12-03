@@ -9,7 +9,7 @@ GDP is a popular indicator of economic performance, and national GDP of a countr
 ## Table of Contents
 | data | [link](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data) |
 | code | [link](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/code)|
-| spotlight | [link](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/spotlight)
+| spotlight | [link](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/spotlight) |
 
 
 
