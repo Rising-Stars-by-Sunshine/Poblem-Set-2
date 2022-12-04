@@ -45,7 +45,7 @@ Prediction:
 
 Source: data sourced from [the World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) and matrix created with [Scikit Learn](https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees).
 
-Figure 2 is a confusion matrix for the random forest classifier algorithm for GDP prediction. This is useful to see how suitable this algorithm is for the problem. The x-axis is predicted label and the y-axis is true label. 0 represents a decrease in GDP and 1 represents an increase in GDP. The precision is TP/TP+FP = 6/7 = 0/86. The recall is T/TP+FN = 6/7 = 0.86.
+Figure 2 is a confusion matrix for the random forest classifier algorithm for GDP prediction. This is useful to see how suitable this algorithm is for the problem. Each box shows the number of occurences of True Positive, False Positive, False Negative, and True Negative. The legend on the right shows the counts of observations, with yellow being more observations and purple meaning fewer. The x-axis is predicted label and the y-axis is true label. 0 represents a decrease in GDP and 1 represents an increase in GDP. The precision is TP/TP+FP = 6/7 = 0/86. The recall is T/TP+FN = 6/7 = 0.86.
 
 references: https://www.v7labs.com/blog/confusion-matrix-guide
 
