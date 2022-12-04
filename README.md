@@ -15,6 +15,7 @@
 
 | Data |
 |------|
+| [Data source](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=KR)|
 | [Queried data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data/Queried_Data) |
 | [Processed data](https://github.com/Rising-Stars-by-Sunshine/Poblem-Set-2/tree/main/data/Processed_Data) |
 
