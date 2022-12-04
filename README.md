@@ -43,9 +43,9 @@ Prediction:
 
 **Figure 2: Confusion matrix from random forest classifier**
 
-Source: from the [analyze data](linear_model.Ridge(alpha=.5)) for 'Machine Learning for Prediction' part of the assignment; data sourced from [the World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+Source: data sourced from [the World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) and matrix created with [Scikit Learn](https://scikit-learn.org/stable/modules/ensemble.html#forests-of-randomized-trees).
 
-Figure 2 is a confusion matrix for the random forest classifier algorithm. This is useful to see how suitable this algorithm is for the problem. We can see that the proportion of true positives to all positives is 6:1, so there is relatively high precision. The proportion of true positives to those belonging to the positive class is also 6:1, so recall is also relative high. This means that the random forest classifier could be a good algorithm to predict the future GDP of Korea.
+Figure 2 is a confusion matrix for the random forest classifier algorithm for GDP prediction. This is useful to see how suitable this algorithm is for the problem. The x-axis is predicted label and the y-axis is true label. 0 represents a decrease in GDP and 1 represents an increase in GDP. The precision is TP/TP+FP = 6/7 = 0/86. The recall is T/TP+FN = 6/7 = 0.86.
 
 references: https://www.v7labs.com/blog/confusion-matrix-guide
 
