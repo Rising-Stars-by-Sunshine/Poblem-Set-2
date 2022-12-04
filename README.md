@@ -1,4 +1,4 @@
-# Predicting Korean GDP
+# Predicting Korean GDP with Simple Moving Average
 ## Project information
 - **Author**: Natalie Aramendia, Computation & Design, 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
